@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="favicon.ico" />
+</head>
+
+<style>
+body {
+  background-image: url('nice5.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+	
+<body>
+
+<h1 align="center">Jeng-Chi, Weng -- 翁證騏</h1>
+
+<marquee bgcolor=ffffcc width=30% scrollamount="2">
+對未來感到迷茫，但懶到不想去想以後的事</marquee>
+<br>
+
+<img src="image.jpg" height=200 width=200>
+
+<h2><font color=blue>《About me》</font></h2>
+
+<p>
+<font face= "微軟正黑體">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2001年出生在桃園，
+自稱是個道地的桃園人，
+但國中之後學校沒有一個是在桃園。
+爸爸不錯帥，媽媽也很漂亮（至少我是那麼覺得），
+一家人一起度過了至今19年的幸福生活。
+我其實有個妹妹，但講了好像不會有人相信。
+而因為成長在這個還算健康的家庭環境，小時候的我樂觀開朗，
+但隨著年紀漸漸變大，越來越喜歡一個人到處亂晃：
+一個人看電影、一個人出國，但很多人都跟我說這樣有點太孤僻。
+<b>是這樣嗎？</b>但是這樣真的很開心耶。好吧，我以後看是不是改進。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+我覺得我對於物質生活的要求應該不太高，
+平常生活只求每天可以好好地睡覺，可以吃飽。最近飲食開始越來越不健康，
+每天都吃宵夜，但吃完宵夜睡覺，結束一天，
+生活中能一直有這種簡單的快樂，我就滿足了。
+</font>
+
+</p>
+
+<h3><font size="6" face= "DFKai-sb" color="blue">《學歷》</font></h3>
+<font face= "微軟正黑體">
+<ul>
+  <li>現就讀於<a href="https://www.ntu.edu.tw/">台灣大學</a>電機系一年級</li>
+  <li>高中畢業於 <a href="https://www2.ck.tp.edu.tw/">台北市立建國中學</a></li>
+</ul>
+</font>
+
+<h3><font size="6" face= "DFKai-sb" color="blue">《平時興趣》</font></h3>
+<font face= "微軟正黑體">
+<ul>
+  <li>喜歡看足球比賽，但踢得很爛，喜歡看網球，但還不會打。很喜歡追一些比賽的直播，
+就算是凌晨兩三點，因為我覺得那種不知道結果會怎樣的期待感才是看比賽的真理。
+有一個我很喜歡的運動員叫Roger Federer。他好厲害，雖然我還不會打網球，還不知道他有多厲害，
+但他打球完全是力與美的展現，帥。<a href="https://rogerfederer.com/">Roger Federer</a></li>
+<br>
+
+  <li>平常課餘時間耍廢居多，滑手機、看youtube，一個不小心就是一個小時起跳，但最近發現了一個很不錯的頻道，
+叫做ThatWasEpic，我最近生活的靈感來源都是來自於這個頻道。他會拍一些很搞怪的影片，例如說在路上戴黑色頭套，
+演一個搶劫犯，然後問路人銀行在哪裡。每點一個影片都覺得：「<i>天啊，這個人也太有才了吧</i>」，
+然後也會想嘗試看看他做的一些事情，不被社會框架限制住。
+<a href="https://www.youtube.com/channel/UCSrnmu3W6YXWU_85DKT5arg">ThatWasEpic</a></li>
+<br>
+
+  <li>因為滑手機逛youtube真的是每天睡前的例行公事，所以就會看各種影片。然後有一天，就開始看一些樂團的歌的影片，
+就這樣不小心進了聽團這個深不見底的坑。雖然不會任何樂器，也不懂樂理，但聽一些音樂真的覺得好舒服，心情整個好起來，
+可能出門前聽得某一首歌，一整天都繚繞在腦中，一整天都在那首歌的情緒。最近覺得很棒的樂團是deca joins，
+因為聽到他們的某張專輯叫<浴室>，舒服。
+<a href="https://www.youtube.com/channel/UC7hdB_hkXSTzwEXaZUYLdbw">deca joins</a></li>
+<br><br><br><br><br><br>
+</ul>
+</font>
+
+
+<p>
+	
+</p>
+
+</body>
+</html>
